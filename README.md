@@ -1,4 +1,4 @@
-# NoteApp
+# NotesApp
 
 Welcome to NoteApp - your go-to solution for efficient note-taking and organization!
 
